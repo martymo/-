@@ -27,3 +27,12 @@ Fill in the cross number puzzle using the following numbers:
 
 This puzzle is from a grade 5 Math exercise book. I thought it
 would be a good exercise to see if there was really a solution to it.
+
+### Numbers in a triangle
+
+Put the numbers from 1 to 9 in the circles so that the sum of the numbers on each side of a triangle is the same.
+       X
+      X X
+     X   X
+    X X X X
+    
